@@ -1,7 +1,7 @@
 
 </html>
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">A Passionate software Engineer Developer from India</h3>
+<h3 align="center"></h3>
 <img align="right" alt="coding" width="400" src=" https://user-images.githubusercontent...
 ">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakumarcs" alt="adityakumarcs" /></a> </p>
